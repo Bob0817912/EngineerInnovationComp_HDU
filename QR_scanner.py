@@ -97,3 +97,6 @@ qr_data = QRScan(img)
 
 
 # print(f"Dominant color in the image: {dominant_color}")
+
+
+
