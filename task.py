@@ -1,4 +1,3 @@
-#2023/12/8
 import cv2
 from uart import Uart
 from Qr import Task_SaoMa
